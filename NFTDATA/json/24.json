@@ -1,0 +1,17 @@
+{
+    "name": "Seven Star Beetle",
+    "description": "Seven Star Beetle mining speed increased by 100%.",
+    "image": "https://github.com/BeetleSwap/BeetleNFT/blob/main/NFTDATA/Images/24.png",
+    "attributes": [
+
+         {
+            "trait_type": "Power",
+            "value": "100"
+        }，   
+        {
+            "trait_type": "lv",
+            "value": "7"
+        }
+    ]
+}
+
